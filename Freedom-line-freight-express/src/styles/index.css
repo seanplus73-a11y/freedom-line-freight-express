@@ -1,0 +1,9 @@
+src/styles/
+
+location: src/styles/index.css
+
+
+@import './fonts.css';
+@import 'tailwindcss';
+@import './theme.css';
+@import './tailwind.css';
